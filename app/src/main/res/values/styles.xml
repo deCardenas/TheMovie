@@ -1,0 +1,21 @@
+<resources>
+
+<!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/primaryColor</item>
+    <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+    <item name="colorAccent">@color/secondaryColor</item>
+    <item name="coordinatorLayoutStyle">@style/Widget.Design.CoordinatorLayout</item>
+</style>
+
+<style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+<style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark" />
+<style name="AppTheme.TabStyle" parent="Widget.Design.TabLayout">
+    <item name="tabBackground">@color/primaryColor</item>
+    <item name="tabIndicatorColor">@color/secondaryColor</item>
+    <item name="tabIndicatorHeight">4dp</item>
+    <item name="tabTextColor">@color/primaryTextColor</item>
+    <item name="tabSelectedTextColor">@color/secondaryTextColor</item>
+</style>
+</resources>

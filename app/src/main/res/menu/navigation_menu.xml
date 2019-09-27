@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_movies"
+            android:icon="@drawable/ic_local_movies_black_24dp"
+            android:title="@string/menu_movies" />
+        <item
+            android:id="@+id/menu_tvs"
+            android:icon="@drawable/ic_tv_black_24dp"
+            android:title="@string/menu_tvs" />
+        <item
+            android:id="@+id/menu_people"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/menu_people" />
+    </group>
+    <group android:menuCategory="alternative">
+        <item android:id="@+id/menu_contact_me"
+            android:icon="@drawable/ic_contact_mail_black_24dp"
+            android:title="@string/contact_me" />
+        <item android:id="@+id/menu_about_me"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/about_me"/>
+    </group>
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_movies">Peliculas</string>
+    <string name="menu_tvs">Series de Tv</string>
+    <string name="menu_people">Actores</string>
+    <string name="overview">Reseña</string>
+    <string name="title">Titulo o Nombre</string>
+    <string name="runtime">Duración</string>
+    <string name="budget">Presupuesto</string>
+    <string name="revenue">Ingresos</string>
+    <string name="homepage">Pagina</string>
+    <string name="path">Imagen</string>
+    <string name="ok">Aceptar</string>
+    <string name="not_found">No se encontraron similitudes</string>
+    <string name="detail">Detalles</string>
+    <string name="similarities">Similares</string>
+    <string name="contact_me">Contactame</string>
+    <string name="about_me">Sobre mi</string>
+    <string name="share">Compartir</string>
+    <string name="share_with">Compartir con:</string>
+</resources>

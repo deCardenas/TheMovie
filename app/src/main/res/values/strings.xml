@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">TheMovie</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="ok">OK</string>
+    <string name="menu_movies">Movies</string>
+    <string name="menu_tvs">Tv Shows</string>
+    <string name="menu_people">Actors</string>
+    <string name="path">Image path</string>
+    <string name="title">Title or Name</string>
+    <string name="overview">Overview</string>
+    <string name="homepage">Homepage</string>
+    <string name="runtime">Runtime</string>
+    <string name="budget">Budget</string>
+    <string name="revenue">Revenue</string>
+    <string name="not_found">Not similarities were found</string>
+    <string name="detail">Details</string>
+    <string name="similarities">Similarities</string>
+    <string name="contact_me">Contact me</string>
+    <string name="about_me">About me</string>
+    <string name="share">Share</string>
+    <string name="share_with">Share with:</string>
+    <string name="search_in_blank" translatable="false">Enter data</string>
+    <string name="air_date" translatable="false">First air date</string>
+    <string name="adult" translatable="false">Adult</string>
+    <string name="gender" translatable="false">Gender</string>
+    <string name="place_of_birth" translatable="false">Place of Birth</string>
+    <string name="birthday" translatable="false">Birthday</string>
+    <string name="deathday" translatable="false">Deathday</string>
+    <string name="biography" translatable="false">Biography</string>
+</resources>
